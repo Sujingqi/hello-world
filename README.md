@@ -1,2 +1,3 @@
 # hello-world
-Hi , I’m susan,I like music and reading.I'd like commnunicate with u by Phthon .（Update）
+Hi , I’m susan,I like music and reading.I'd like commnunicate with u by Phthon . 
+I like doing my Job
